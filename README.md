@@ -1,6 +1,6 @@
 # bnbwordfish
 
-Replication materials for Däubler, Thomas and Kenneth Benoit (2002) "[Scaling hand-coded political texts to learn more about left-right policy content](/pdfs/daubler-benoit-2021-scaling-hand-coded-political-texts-to-learn-more-about-left-right-policy-content.pdf)."  _Party Politics_. 28(5, September): 834–844. [10.1177/13540688211026076](https://doi.org/10.1177/13540688211026076)
+Replication materials for Däubler, Thomas and Kenneth Benoit (2002) "[Scaling hand-coded political texts to learn more about left-right policy content](/pdfs/daubler-benoit-2021-scaling-hand-coded-political-texts-to-learn-more-about-left-right-policy-content.pdf)."  _Party Politics_. 28(5, September): 834–844. [10.1177/13540688211026076](https://doi.org/10.1177/13540688211026076).
 
 ## Files for replication
 
