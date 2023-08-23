@@ -18,7 +18,7 @@ Replication materials for Däubler, Thomas and Kenneth Benoit (2002) "[Scaling h
 
 - `resultsPP`: the results from the simulations for the CMP data.
 
-- `resultsCAPPP`: the results from the simulations for the CAP data.  This file saves results that are too large for GitHub but that is available here: [`resultsCAPPP.RData`](https://www.dropbox.com/scl/fi/lf68t80k5q1bphla881aj/resultsCAPPP.RData?rlkey=gjnd8wae2b9blstxv4um524rn&dl=0)https://www.dropbox.com/scl/fi/lf68t80k5q1bphla881aj/resultsCAPPP.RData?rlkey=gjnd8wae2b9blstxv4um524rn&dl=0)
+- `resultsCAPPP`: the results from the simulations for the CAP data.  This file saves results that are too large for GitHub but that is available here: [`resultsCAPPP.RData`](https://www.dropbox.com/scl/fi/lf68t80k5q1bphla881aj/resultsCAPPP.RData?rlkey=gjnd8wae2b9blstxv4um524rn&dl=0)
 
 - `cmpcatlab- : some category labels for the CMP data
 
